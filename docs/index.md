@@ -1,4 +1,4 @@
-# FactStore - Offical Documentation
+# FactStore - Official Documentation
 
 A lightweight, Kotlin-first event store designed for clarity, correctness, and extensibility — built on a clean specification and powered by FoundationDB. 🚀
 
