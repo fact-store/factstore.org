@@ -1,0 +1,8 @@
+site/
+
+# python env directories
+bin/
+lib/
+include/
+lib64
+pyvenv.cfg
