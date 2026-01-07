@@ -1,5 +1,9 @@
 site_name: FactStore
 nav:
   - Home: index.md
+  - Getting Started: getting-started.md
+  - Appending Facts: appending-facts.md
+  - Finding Facts: finding-facts.md
+  - Streaming Facts: streaming-facts.md
   - About: about.md
 theme: readthedocs
