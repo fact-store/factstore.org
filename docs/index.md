@@ -6,7 +6,7 @@ A lightweight, Kotlin-first event store designed for clarity, correctness, and e
 
 The _FactStore_ project is a collection of libraries to build flexible event-sourced applications, including a specification for event sourcing and event streaming, as well as a backing implementation of that specification powered by FoundationDB. 
 
-### Subproject: `fact-store-specification`
+### Subproject: `factstore-specification`
 
 This subproject defines the core contracts and behavioral rules for a FactStore implementation. It is written in Kotlin and establishes the APIs for:
 
@@ -21,7 +21,7 @@ Other subprojects include:
 
 * _FactExplorer_: A UI tool to explore and manage fact stores. 
 
-### Subproject: `fact-store-foundationdb`
+### Subproject: `factstore-foundationdb`
 
 An implementation of the specification using FoundationDB as the storage engine.
 This module provides:
